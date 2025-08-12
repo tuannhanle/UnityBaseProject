@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efc0df35a5e04f52a8810a5588b005c, type: 3}
+  m_Name: SDDModel
+  m_EditorClassIdentifier: 
+  currentSpeed: 0
+  speedLimit: 50
+  isSpeedLimitActive: 1
+  currentDirection: N
+  compassHeading: 0
+  distanceToDestination: 0
+  destinationName: 
+  estimatedTimeArrival: 0
+  isNavigationActive: 0
+  nextTurnDirection: 
+  distanceToNextTurn: 0
+  speedWarning: 0
+  navigationAlert: 0
+  showSpeedLimit: 1
+  showCompass: 1
+  showNavigation: 1

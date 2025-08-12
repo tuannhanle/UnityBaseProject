@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab4306ca6378d428295c4c136689b439, type: 3}
+  m_Name: EcoModel
+  m_EditorClassIdentifier: 
+  fuelLevel: 100
+  fuelCapacity: 60
+  currentEfficiency: 6.5
+  bestEfficiency: 5.2
+  averageEfficiency: 7.8
+  totalDistance: 0
+  tripDistance: 0
+  averageSpeed: 0
+  ecoRating: C
+  isEcoModeActive: 0
+  excellentThreshold: 6
+  goodThreshold: 8
+  averageThreshold: 10
+  poorThreshold: 12
